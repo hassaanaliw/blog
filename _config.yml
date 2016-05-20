@@ -6,10 +6,10 @@ markdown: redcarpet
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: /
+baseurl: /blog/
 domain_name: 'http://hassaanaliw.me'
 google_analytics: 'UA-54672427-1'
 
 # Details for the RSS feed generator
-url:            'http://hassaanaliw.me'
+url:            'http://hassaanaliw.me/blog'
 author:         'Hassaan Ali Wattoo'
