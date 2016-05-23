@@ -1,7 +1,8 @@
 name: Olympia
 description: Blogging about Python and Flask.
 meta_description: "Your Pythonic blog to all things Flask."
-
+gems:
+  - jekyll-redirect-from
 markdown: redcarpet
 highlighter: pygments
 logo: false
