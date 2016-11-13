@@ -4,7 +4,6 @@ title: "Scrapy Tutorial : Let's Crawl Google Play"
 description: "Learn how to use Scrapy to crawl one of the biggest app stores."
 category: Python
 tags: []
-redirect_from: "/python/2014/07/14/scrapy-tutorial.html"
 ---
 <h3>An Introduction to Scrapy</h3>
 <h3>What is Scrapy?</h3>
