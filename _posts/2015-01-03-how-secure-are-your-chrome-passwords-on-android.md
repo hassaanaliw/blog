@@ -19,7 +19,7 @@ Storage
 
 When you enter a password for a website into [Chrome on Android](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en), chances are you see a prompt to save your password. 
 
-<img src="/assets/images/savepass.png " alt="Drawing" style="width: 300px; height:500px;"/>
+<img src="/blog/assets/images/savepass.png " alt="Drawing" style="width: 300px; height:500px;"/>
 
 If you click yes, Chrome will save information about the page such as the names of the form elements as well as the <strong>password</strong> to a database called __LoginData__.
 
@@ -29,7 +29,7 @@ The full path to the database is:
 
 >/data/data/com.android.chrome/app_chrome/Default/Login Data
 
-<img src="/assets/images/File Explorer.png" style="width:300px; height:500px; " />
+<img src="/blog/assets/images/File Explorer.png" style="width:300px; height:500px; " />
 
 ##The Problem
 
@@ -49,7 +49,7 @@ Here you should be able to see all your saved usernames and passwords.
 
 To test this, I set up a simple website form on Heroku
 
-<img src="/assets/images/droidpw.png" alt="Website Form to test and save Passwords" style="width: 300px; height:500px;"/>
+<img src="/blog/assets/images/droidpw.png" alt="Website Form to test and save Passwords" style="width: 300px; height:500px;"/>
 
 Then I entered 5 different username/password combinations and saved them in Chrome
 
@@ -83,7 +83,7 @@ Then I entered 5 different username/password combinations and saved them in Chro
 
 I then sent the database to my computer and opened it up with SQLite Browser and this is the result:
 
-<img src="/assets/article_images/sqlitebrowserpasswords.png" alt="Sqlite Browser Passwords List.png />
+<img src="/blog/assets/article_images/sqlitebrowserpasswords.png" alt="Sqlite Browser Passwords List.png" />
 
 
 ##Conclusion
