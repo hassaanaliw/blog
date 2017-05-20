@@ -1,13 +1,13 @@
 name: Olympia
-description: Blogging about Python and Flask.
-meta_description: "Your Pythonic blog to all things Flask."
-gems:
-  - jekyll-redirect-from
+description: Ramblings by Hassaan Ali Wattoo
+meta_description: "Ramblings by Hassaan Ali Wattoo"
 markdown: redcarpet
+gems: [jekyll-paginate]
 highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /blog/
+future: true
 domain_name: 'http://hassaanaliw.me/blog/'
 google_analytics: 'UA-54672427-1'
 

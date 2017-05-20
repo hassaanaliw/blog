@@ -891,6 +891,11 @@ body:not(.post-template) .post-title {
     padding: 0.6em 0;
 }
 
+.post-content{
+
+    margin-top: 40px;
+}
+
 /* Break out larger images to be wider than the main text column
    the class is applied with jQuery */
 .post-content .full-img {

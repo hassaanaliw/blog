@@ -83,7 +83,7 @@ Then I entered 5 different username/password combinations and saved them in Chro
 
 I then sent the database to my computer and opened it up with SQLite Browser and this is the result:
 
-<img src="/blog/assets/article_images/sqlitebrowserpasswords.png" alt="Sqlite Browser Passwords List.png" />
+<img src="/blog/assets/images/sqlitebrowserpasswords.png" alt="Sqlite Browser Passwords List.png" />
 
 
 ##Conclusion
