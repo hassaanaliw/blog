@@ -16,23 +16,17 @@ This presented a pretty good opportunity and the question arose: exactly how muc
 Quite a lot is the answer.
 
 
-###Downloading Youtube Videos
+<h4>Downloading Youtube Videos</h4>
 
 <img src="/blog/assets/images/yt.gif">
 
 The Messenger app provides an easy way to save any videos sent in a chat so all we need to do is to program our bot to download and send Youtube videos to us which we can then save directly to the gallery.
 
-###Downloading Songs
 
+<h4>Since Cats rule the Internet</h4>
 
-###Getting Song Lyrics
+<img src="/blog/assets/images/cats.gif">
 
-###Intelligently generating Captions for images
+<h4>And much, much more</h4>
 
-
-###And since Cats rule the Internet
-
-
-###XKCD Comics
-
-
+<iframe class="embed-responsive-item" style="margin:auto;margin-top:40px;margin-bottom:40px;" height="415" src="https://www.youtube.com/embed/HxBzd2FgZkg" frameborder="0" allowfullscreen></iframe>
