@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Wattoo's Thoughts</title><link href="https://wattoo.me/blog/" rel="alternate"></link><link href="https://wattoo.me/blog/feeds/all.atom.xml" rel="self"></link><id>https://wattoo.me/blog/</id><updated>2018-06-12T00:00:00+05:00</updated><entry><title>EECS Grades at University of Michigan (Incomplete)</title><link href="https://wattoo.me/blog/eecs-grades-at-umich.html" rel="alternate"></link><published>2018-06-12T00:00:00+05:00</published><updated>2018-06-12T00:00:00+05:00</updated><author><name>Hassaan Ali Wattoo</name></author><id>tag:wattoo.me,2018-06-12:/blog/eecs-grades-at-umich.html</id><summary type="html">&lt;p&gt;The Electrical Engineering and Computer Science (EECS) department at the University of Michigan is one of it's biggest.
+According to the &lt;a href="https://www.eecs.umich.edu/eecs/about/welcome.html"&gt;department's website&lt;/a&gt;,&lt;/p&gt;
+&lt;p class="quote"&gt;The Electrical Engineering and Computer Science (EECS) Department is among the leading departments of its kind in the nation,
+    with a diverse program of over 100 courses …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Electrical Engineering and Computer Science (EECS) department at the University of Michigan is one of it's biggest.
+According to the &lt;a href="https://www.eecs.umich.edu/eecs/about/welcome.html"&gt;department's website&lt;/a&gt;,&lt;/p&gt;
+&lt;p class="quote"&gt;The Electrical Engineering and Computer Science (EECS) Department is among the leading departments of its kind in the nation,
+    with a diverse program of over 100 courses per semester, 143 faculty members,
+    1880+ undergraduate, and almost 1100 graduate students&lt;/p&gt;
+
+&lt;p&gt;Because of this, I thought it'd be cool to see how students fare grade and course wise in this department&lt;/p&gt;
+&lt;h2&gt;Grade Data&lt;/h2&gt;
+&lt;p&gt;The grade data used in this blog post was obtained directly from the University of Michigan itself and covers the following
+four semesters: Winter and Fall for the years 2016 and 2017.&lt;/p&gt;
+&lt;p&gt;It is also the same data we use for course distribution visualisations over
+at the Michigan Daily &lt;a href="https://gradeguide.com"&gt;GradeGuide&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;The EECS Department in Numbers&lt;/h3&gt;
+&lt;p&gt;As stated above, the department is a fairly big one with upwards of 1800 undergrad and 1100 grad students. But how does
+it stack up against other departments in the University?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;p class="quote warning"&gt;The course data we received doesn't tell us exactly how many unique students took a course
+as part of the department, rather just the number of students in each course.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;Since, we can't figure out how many unique students are a part of a department, let's look at average enrollment by
+course.&lt;/p&gt;
+&lt;div id="average-enrollment-chart" style="width:100%; height:400px;"&gt;&lt;/div&gt;
+
+&lt;script src="https://code.highcharts.com/highcharts.src.js"&gt;&lt;/script&gt;
+
+&lt;script src="theme/js/eecs.js" type="text/javascript"&gt;&lt;/script&gt;</content></entry></feed>
